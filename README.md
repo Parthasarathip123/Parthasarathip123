@@ -6,6 +6,7 @@ I'm intrigued by a wide range of topics and always on the lookout for exciting c
 
 
 🌱 What I'm Currently Learning
+
  python
 
 Python: An incredibly versatile programming language that I believe is the foundation for solving a multitude of problems.
